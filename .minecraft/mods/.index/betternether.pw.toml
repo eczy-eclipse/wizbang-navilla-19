@@ -1,0 +1,14 @@
+name = "BetterNether"
+filename = "better-nether-7.1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/MpzVLzy5/versions/MaTuYgp1/better-nether-7.1.2.jar"
+hash-format = "sha512"
+hash = "5add6aba21c6042024433fee4ac4f76154b0cd4139e246c7f4ef711732d7c1ccfaf994c3f160976ba7aeea75f660fd6d744f0f13be715b05f9ed8d1a964fc4ee"
+
+[update]
+[update.modrinth]
+mod-id = "MpzVLzy5"
+version = "MaTuYgp1"

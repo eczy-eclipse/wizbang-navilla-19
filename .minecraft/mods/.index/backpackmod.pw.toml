@@ -1,0 +1,14 @@
+name = "BackpackMod"
+filename = "backpackmod-1.19-4.0.5.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YQenrte2/versions/1.19/backpackmod-1.19-4.0.5.jar"
+hash-format = "sha512"
+hash = "583ed5efc8bc7d1ef6b19a60bfb9e09fdd337b990a0056778e2b235bacd5103757155abd7a28ccc6cbf6ed715c7b45d81332ff9df9a1261a4f7bc48e06f2f53d"
+
+[update]
+[update.modrinth]
+mod-id = "YQenrte2"
+version = "wZPzgbFZ"

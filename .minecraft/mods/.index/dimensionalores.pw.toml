@@ -1,0 +1,14 @@
+name = "DimensionalOres"
+filename = "dimores-1.19-1.0.7.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a3e2703cf3f5f3172344fb3262e5cc2122860768"
+
+[update]
+[update.curseforge]
+file-id = 4031927
+project-id = 511618

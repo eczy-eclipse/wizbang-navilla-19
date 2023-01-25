@@ -1,0 +1,14 @@
+{
+    "clickthrough.config.sneaktodye": "Agachar para colorir tabuleta",
+    "clickthrough.config.tt.sneaktodye": "ON: Clicar atravessa, agachar para pintar tabuleta\nOFF: Clicar pinta tabuleta, agachar não pinta",
+    "clickthrough.config.ignore.1": "Ignora tabuleta se linha 1 corresponder a: ",
+    "clickthrough.config.ignore.2": "Ignorar tabuleta se linha 2 corresponder a: ",
+    "clickthrough.config.ignore.3": "Ignorar tabuleta se linha 3 corresponder a: ",
+    "clickthrough.config.ignore.4": "Ignorar tabuleta se linha 4 corresponder a: ",
+    "clickthrough.config.onlycontainers": "Só atravessa para contentores",
+    "clickthrough.config.tt.ignore.1": "Não atravessar tabuletas para facilitar lojas de baús",
+    "clickthrough.config.tt.ignore.2": "Não atravessar tabuletas para facilitar lojas de baús",
+    "clickthrough.config.tt.ignore.3": "Não atravessar tabuletas para facilitar lojas de baús",
+    "clickthrough.config.tt.ignore.4": "Não atravessar tabuletas para facilitar lojas de baús",
+    "clickthrough.config.tt.onlycontainers": "Atravessar para abrir baús, barris etc., mas não mesas de trabalho, compostores e similares"
+}

@@ -1,0 +1,11 @@
+{
+  "favorites": [],
+  "recipe_defaults": {
+    "added": [
+      "minecraft:acacia_planks"
+    ],
+    "disabled": [
+      "minecraft:acacia_planks"
+    ]
+  }
+}

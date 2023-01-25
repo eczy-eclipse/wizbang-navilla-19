@@ -1,0 +1,14 @@
+name = "Spice of Fabric"
+filename = "spiceoffabric-1.5.5+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/roxihOCb/versions/212paj35/spiceoffabric-1.5.5%2B1.19.jar"
+hash-format = "sha512"
+hash = "d9fa18b308b6c329e7d41e27304271160b4678760e8a114090a881299597b9b8c2e875656386cdc51fbd69ff41bc509d62f36f3db8d4f554ca9039c9452eb71c"
+
+[update]
+[update.modrinth]
+mod-id = "roxihOCb"
+version = "212paj35"

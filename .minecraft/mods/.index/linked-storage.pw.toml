@@ -1,0 +1,14 @@
+name = "Linked Storage"
+filename = "linkedstorage-1.5.1-1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/RiJDpVc2/versions/PUeWSvp9/linkedstorage-1.5.1-1.19.jar"
+hash-format = "sha512"
+hash = "bea1d4fc6fcc109bd56f6f7fe554fad034ffb5f9666111ae20abe2c0e390f25df7acfe7629ba6255692796632aa162883cae46c53aae16373bdf4ed1de938858"
+
+[update]
+[update.modrinth]
+mod-id = "RiJDpVc2"
+version = "PUeWSvp9"
