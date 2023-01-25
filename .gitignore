@@ -1,1 +1,11 @@
-.minecraft/test
+.minecraft/.quilt
+.minecraft/coremods
+.minecraft/crash-reports
+.minecraft/logs
+.minecraft/ModTranslations
+.minecraft/patchouli_books
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/texturepacks
+.minecraft/XaeroWorldMap
