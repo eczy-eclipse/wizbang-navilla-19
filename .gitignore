@@ -1,7 +1,9 @@
 .minecraft/.quilt
 .minecraft/coremods
 .minecraft/crash-reports
+.minecraft/defaultconfigs
 .minecraft/logs
+.minecraft/moddata
 .minecraft/ModTranslations
 .minecraft/patchouli_books
 .minecraft/saves
@@ -9,3 +11,9 @@
 .minecraft/server-resource-packs
 .minecraft/texturepacks
 .minecraft/XaeroWorldMap
+.minecraft/deaths.dat
+.minecraft/emi.json
+.minecraft/irisUpdateInfo.json
+.minecraft/patchouli_data.json
+.minecraft/polymer-resourcepack.zip
+.minecraft/usercache.json

@@ -1,0 +1,44 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
+        "enable_profiles": {
+            "value": false
+        },
+        "enable_updates_check": false,
+        "restock_hotbar": {
+            "value": true
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": {
+            "value": false
+        },
+        "enable_profiles_announcement": false,
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "disable_for_drop_item": {
+            "value": true
+        },
+        "auto_refill_match_any_food": true,
+        "allow_break_for_non_enchanted": {
+            "value": true
+        },
+        "tool_max_durability_threshold": 251,
+        "type_visual_durability_notification": "CHAT",
+        "audio_durability_notification": {
+            "value": false
+        },
+        "number_of_notifications": 2,
+        "type_visual_replace_success_notification": "CHAT",
+        "type_visual_replace_failed_notification": "HOTBAR"
+    },
+    "Tweaks": {
+        "prevent_close_gui_drop_item": {
+            "value": true
+        }
+    }
+}

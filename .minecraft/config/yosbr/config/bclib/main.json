@@ -1,0 +1,9 @@
+{
+  "infos": {
+    "verbose [default: true]": true
+  },
+  "patches": {
+    "applyPatches [default: true]": true,
+    "repairBiomesOnLoad [default: false]": false
+  }
+}

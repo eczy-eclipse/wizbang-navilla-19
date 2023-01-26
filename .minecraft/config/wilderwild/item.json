@@ -1,0 +1,10 @@
+{
+  "ancientHorn": {
+    "ancientHornCanSummonWarden": true,
+    "ancientHornLifespan": 300,
+    "ancientHornMobDamage": 15,
+    "ancientHornPlayerDamage": 22,
+    "ancientHornShattersGlass": true
+  },
+  "projectileBreakParticles": true
+}

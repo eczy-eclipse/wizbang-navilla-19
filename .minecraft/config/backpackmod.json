@@ -1,0 +1,71 @@
+{
+  "general": {
+    "enableEnderBackpack": true,
+    "nbtTagName": "BackpackContent"
+  },
+  "backpacks": [
+    {
+      "name": "leather_backpack",
+      "fireproof": false,
+      "rarity": "common",
+      "inventory": {
+        "width": 9,
+        "height": 3
+      }
+    },
+    {
+      "name": "copper_backpack",
+      "fireproof": false,
+      "rarity": "common",
+      "inventory": {
+        "width": 9,
+        "height": 5
+      }
+    },
+    {
+      "name": "iron_backpack",
+      "fireproof": false,
+      "rarity": "uncommon",
+      "inventory": {
+        "width": 9,
+        "height": 6
+      }
+    },
+    {
+      "name": "amethyst_backpack",
+      "fireproof": false,
+      "rarity": "rare",
+      "inventory": {
+        "width": 12,
+        "height": 9
+      }
+    },
+    {
+      "name": "gold_backpack",
+      "fireproof": false,
+      "rarity": "uncommon",
+      "inventory": {
+        "width": 9,
+        "height": 9
+      }
+    },
+    {
+      "name": "diamond_backpack",
+      "fireproof": false,
+      "rarity": "rare",
+      "inventory": {
+        "width": 12,
+        "height": 9
+      }
+    },
+    {
+      "name": "netherite_backpack",
+      "fireproof": true,
+      "rarity": "epic",
+      "inventory": {
+        "width": 15,
+        "height": 9
+      }
+    }
+  ]
+}

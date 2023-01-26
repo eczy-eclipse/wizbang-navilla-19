@@ -1,0 +1,14 @@
+name = "This Rocks!"
+filename = "rocks-1.6.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Sb5ypgDP/versions/1.6.1/rocks-1.6.1.jar"
+hash-format = "sha512"
+hash = "efa6ec9b374df34df9d86c1d83fd707379d0903b426aa3643f3d4c2c69aedaa990fb33fc7d46a2a714eece816a955ef6bcac92ad49cb6ddf46a650d4e954e059"
+
+[update]
+[update.modrinth]
+mod-id = "Sb5ypgDP"
+version = "K7vtUOfD"

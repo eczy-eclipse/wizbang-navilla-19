@@ -1,0 +1,14 @@
+name = "RightClickHarvest"
+filename = "right-click-harvest-3.0.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/wiXkAJY5/right-click-harvest-3.0.6.jar"
+hash-format = "sha512"
+hash = "c91dc3122c4fd9ae579e5eb3078b0f339de7a0d413987f0f920acad6ac421c8d63b4282dc7274058ae35f06b3cc0fa6152b991671831a60d68646bd2f0db3e18"
+
+[update]
+[update.modrinth]
+mod-id = "Cnejf5xM"
+version = "wiXkAJY5"

@@ -1,0 +1,14 @@
+name = "Trinkets"
+filename = "trinkets-3.4.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5aaWibi9/versions/oLUBJhyv/trinkets-3.4.1.jar"
+hash-format = "sha512"
+hash = "8e5339025c70c586f8e7b0c452e23d17ef7cadeff94bd276deef370d31fad34705ba735b73c1884574f8419665543dca1bcec205663941f759aa8bcb5c5553e1"
+
+[update]
+[update.modrinth]
+mod-id = "5aaWibi9"
+version = "oLUBJhyv"
