@@ -1,0 +1,17 @@
+{
+  "allay": {
+    "keyframeAllayDance": true
+  },
+  "enderMan": {
+    "angerLoopSound": true,
+    "movingStareSound": true
+  },
+  "warden": {
+    "wardenCustomTendrils": true,
+    "wardenDyingAnimation": true,
+    "wardenEmergesFromCommand": true,
+    "wardenEmergesFromEgg": true,
+    "wardenSwimAnimation": true
+  },
+  "unpassableRail": false
+}
