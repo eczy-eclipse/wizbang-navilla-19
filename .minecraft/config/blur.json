@@ -4,7 +4,8 @@
     "com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiOverlay$UserInputGuiScreen",
     "ai.arcblroth.projectInception.client.InceptionInterfaceScreen",
     "net.optifine.gui.GuiChatOF",
-    "io.github.darkkronicle.advancedchatcore.chat.AdvancedChatScreen"
+    "io.github.darkkronicle.advancedchatcore.chat.AdvancedChatScreen",
+    "net.coderbot.iris.gui.screen.ShaderPackScreen"
   ],
   "fadeTimeMillis": 200,
   "ease": true,

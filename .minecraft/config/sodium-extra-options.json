@@ -29,7 +29,8 @@
     "multi_dimension_fog_control": true,
     "dimensionFogDistance": {
       "minecraft:overworld": 0,
-      "minecraft:the_nether": 11
+      "minecraft:the_nether": 11,
+      "minecraft:the_end": 0
     },
     "use_linear_flat_color_blender": false,
     "light_updates": true,
