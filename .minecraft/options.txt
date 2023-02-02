@@ -1,5 +1,5 @@
 version:3120
-quilt_available_resource_packs:["programer_art","vanilla","additionalbars/classic","wilderwild/new_main_menu","continuity/default","continuity/glass_pane_culling_fix","illuminations/lowerres","illuminations/pixelaccurate","lambdabettergrass/default","file/Navilla19_EmeraldBackpack.zip","file/Navilla19_MoGlassBorderless.zip","file/VanillaTweaks_r648622.zip","linkedstorage/enderstorage","file/Navilla19_Panorama_Begin.zip","file/Navilla19_TitleScreen.zip","file/Navilla19_Panorama_Dzbil1.zip","file/Navilla19_Panorama_Dzbil2.zip","file/Navilla19_Panorama_Eczy1.zip","file/Navilla19_Panorama_Nox1.zip","file/Navilla19_Panorama_Nox2.zip","file/Navilla19_Panorama_Eczy2.zip","file/Navilla19_Panorama_Kay1.zip","file/Navilla19_Panorama_Kay2.zip","file/Navilla19_Panorama_Rhino1"]
+quilt_available_resource_packs:["programer_art","vanilla","additionalbars/classic","wilderwild/new_main_menu","continuity/default","continuity/glass_pane_culling_fix","illuminations/lowerres","illuminations/pixelaccurate","lambdabettergrass/default","file/Navilla19_EmeraldBackpack.zip","file/Navilla19_MoGlassBorderless.zip","linkedstorage/enderstorage","file/Navilla19_Panorama_Begin.zip","file/Navilla19_TitleScreen.zip","file/Navilla19_Panorama_Dzbil1.zip","file/Navilla19_Panorama_Dzbil2.zip","file/Navilla19_Panorama_Eczy1.zip","file/Navilla19_Panorama_Nox1.zip","file/Navilla19_Panorama_Nox2.zip","file/Navilla19_Panorama_Eczy2.zip","file/Navilla19_Panorama_Kay1.zip","file/Navilla19_Panorama_Kay2.zip","file/Navilla19_Panorama_Rhino1.zip","file/Navilla19_Panorama_Rhino2.zip","file/VanillaTweaks.zip"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -23,11 +23,11 @@ darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.3626760563380282
 fov:0.5
-screenEffectScale:0.0
-fovEffectScale:0.0
+screenEffectScale:1.0
+fovEffectScale:1.0
 darknessEffectScale:1.0
 gamma:0.0
-renderDistance:16
+renderDistance:10
 simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:2
@@ -38,7 +38,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","lambdabettergrass/default","file/VanillaTweaks_r648622.zip","additionalbars/classic","file/Navilla19_MoGlassBorderless.zip","file/Navilla19_EmeraldBackpack.zip","file/Navilla19_Panorama_Begin.zip","file/Navilla19_TitleScreen.zip"]
+resourcePacks:["vanilla","file/VanillaTweaks.zip","continuity/default","continuity/glass_pane_culling_fix","lambdabettergrass/default","additionalbars/classic","file/Navilla19_MoGlassBorderless.zip","file/Navilla19_EmeraldBackpack.zip","file/Navilla19_Panorama_Begin.zip","file/Navilla19_TitleScreen.zip"]
 incompatibleResourcePacks:[]
 lastServer:66.69.200.204:25565
 lang:en_us
