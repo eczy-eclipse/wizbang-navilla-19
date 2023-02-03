@@ -2,6 +2,7 @@
 .minecraft/coremods
 .minecraft/crash-reports
 .minecraft/defaultconfigs
+.minecraft/immersive_paintings_cache
 .minecraft/logs
 .minecraft/moddata
 .minecraft/ModTranslations
@@ -12,6 +13,7 @@
 .minecraft/texturepacks
 .minecraft/XaeroWorldMap
 .minecraft/XaeroWaypoints
+.minecraft/XaeroWaypoints_*
 .minecraft/deaths.dat
 .minecraft/emi.json
 .minecraft/irisUpdateInfo.json
