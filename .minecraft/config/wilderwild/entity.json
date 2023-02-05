@@ -7,11 +7,18 @@
     "movingStareSound": true
   },
   "warden": {
+    "wardenAttacksInstantly": true,
     "wardenCustomTendrils": true,
     "wardenDyingAnimation": true,
     "wardenEmergesFromCommand": true,
     "wardenEmergesFromEgg": true,
     "wardenSwimAnimation": true
+  },
+  "firefly": {
+    "fireflySpawnCap": 56
+  },
+  "jellyfish": {
+    "jellyfishSpawnCap": 30
   },
   "unpassableRail": false
 }

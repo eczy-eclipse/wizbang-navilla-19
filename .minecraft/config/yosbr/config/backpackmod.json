@@ -10,7 +10,7 @@
       "rarity": "common",
       "inventory": {
         "width": 9,
-        "height": 2
+        "height": 3
       }
     },
     {
@@ -19,29 +19,11 @@
       "rarity": "common",
       "inventory": {
         "width": 9,
-        "height": 3
-      }
-    },
-    {
-      "name": "iron_backpack",
-      "fireproof": false,
-      "rarity": "common",
-      "inventory": {
-        "width": 9,
-        "height": 4
-      }
-    },
-    {
-      "name": "amethyst_backpack",
-      "fireproof": false,
-      "rarity": "uncommon",
-      "inventory": {
-        "width": 9,
         "height": 5
       }
     },
     {
-      "name": "gold_backpack",
+      "name": "iron_backpack",
       "fireproof": false,
       "rarity": "uncommon",
       "inventory": {
@@ -50,12 +32,30 @@
       }
     },
     {
+      "name": "amethyst_backpack",
+      "fireproof": false,
+      "rarity": "rare",
+      "inventory": {
+        "width": 12,
+        "height": 9
+      }
+    },
+    {
+      "name": "gold_backpack",
+      "fireproof": false,
+      "rarity": "uncommon",
+      "inventory": {
+        "width": 9,
+        "height": 9
+      }
+    },
+    {
       "name": "diamond_backpack",
       "fireproof": false,
       "rarity": "rare",
       "inventory": {
-        "width": 11,
-        "height": 7
+        "width": 12,
+        "height": 9
       }
     },
     {
@@ -63,7 +63,7 @@
       "fireproof": true,
       "rarity": "epic",
       "inventory": {
-        "width": 13,
+        "width": 15,
         "height": 9
       }
     }
