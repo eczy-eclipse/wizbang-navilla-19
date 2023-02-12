@@ -11,9 +11,9 @@ mode = "fancy"
 	# Enable entities light source.
 	entities = true
 	# TNT lighting mode. May be off, simple or fancy.
-	tnt = "off"
+	tnt = "simple"
 	# Creeper lighting mode. May be off, simple or fancy.
-	creeper = "simple"
+	creeper = "fancy"
 
 	[light_sources.settings]
 
@@ -23,6 +23,7 @@ mode = "fancy"
 				panda = true
 				bee = true
 				axolotl = true
+				egg = true
 				arrow = true
 				cow = true
 				magma_cube = true
@@ -94,12 +95,15 @@ mode = "fancy"
 				eye_of_ender = true
 				villager = true
 				wolf = true
+				skeleton_horse = true
 				fishing_bobber = true
 				zombie_villager = true
 				tnt_minecart = true
 				elder_guardian = true
+				boat = true
 				strider = true
 				polar_bear = true
+				hopper_minecart = true
 				painting = true
 				cave_spider = true
 				cod = true
@@ -122,6 +126,7 @@ mode = "fancy"
 			[light_sources.settings.entities.betternether]
 				naga_projectile = true
 				firefly = true
+				chair = true
 				hydrogen_jellyfish = true
 				skull = true
 				jungle_skeleton = true

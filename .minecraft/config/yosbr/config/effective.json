@@ -2,7 +2,7 @@
   "enableSplashes": true,
   "splashRimAlpha": 0.7,
   "enableCascades": true,
-  "cascadeSoundsVolumeMultiplier": 100,
+  "cascadeSoundsVolumeMultiplier": 75,
   "cascadeSoundDistanceBlocks": 150,
   "shouldFlowingWaterSpawnParticlesOnFirstTick": true,
   "lapisBlockUpdateParticleChance": 10,
@@ -13,5 +13,5 @@
   "glowsquidHypnotizeAttractCursor": false,
   "enableAllayTrails": true,
   "allayTwinkleDensity": 5,
-  "goldenAllays": false
+  "goldenAllays": true
 }
