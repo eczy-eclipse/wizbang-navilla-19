@@ -43,7 +43,7 @@
     "damageMultiplicand": 0.5,
     "damageRounding": "PROBABILISTIC",
     "speedMultiplicand": 0.25,
-    "forceToolUsage": true
+    "forceToolUsage": false
   },
   "player": {
     "allowedTags": []
