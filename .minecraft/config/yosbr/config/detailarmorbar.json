@@ -10,7 +10,7 @@
   "toggleMending": true,
   "toggleEmptyBar": true,
   "toggleItemBar": true,
-  "toggleVanillaTexture": true,
+  "toggleVanillaTexture": false,
   "toggleCompatibleHeartMod": false,
   "toggleInverseSlot": false,
   "toggleSortSpecialItem": true

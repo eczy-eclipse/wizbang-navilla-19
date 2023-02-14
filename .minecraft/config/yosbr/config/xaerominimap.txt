@@ -55,7 +55,7 @@ waypointOpacityMap:90
 hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
-showLightLevel:0
+showLightLevel:3
 renderLayerIndex:1
 crossDimensionalTp:true
 showTime:2
@@ -110,9 +110,9 @@ displayClaims:true
 displayCurrentClaim:true
 claimsFillOpacity:46
 claimsBorderOpacity:80
-interface:dummy:0:36:true:false:false:false
+interface:dummy:0:0:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:10000:false:false:false:false
+interface:gui.xaero_minimap:0:0:false:false:false:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints
