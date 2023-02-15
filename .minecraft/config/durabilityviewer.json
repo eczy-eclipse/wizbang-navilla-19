@@ -1,6 +1,6 @@
 {
   "durabilityviewer.config.tooltipcolor": {
-    "key": "Tooltip Color",
+    "key": "durabilityviewer.config.tooltipcolor",
     "toolTip": "durabilityviewer.config.tt.tooltipcolor",
     "value": {
       "colorIndex": 6,
@@ -11,21 +11,21 @@
     "maxValue": 15
   },
   "durabilityviewer.config.minpercent": {
-    "key": "Sound below percent",
+    "key": "durabilityviewer.config.minpercent",
     "toolTip": "durabilityviewer.config.tt.minpercent",
     "value": 1,
-    "defaultValue": 1,
+    "defaultValue": 10,
     "minValue": 1,
     "maxValue": 100
   },
   "durabilityviewer.config.effectduration": {
-    "key": "Effect Duration",
+    "key": "durabilityviewer.config.effectduration",
     "toolTip": "durabilityviewer.config.tt.effectduration",
     "value": true,
     "defaultValue": true
   },
   "durabilityviewer.config.hidedamagepercent": {
-    "key": "Percent to hide icons",
+    "key": "durabilityviewer.config.hidedamagepercent",
     "toolTip": "durabilityviewer.config.tt.hidedamagepercent",
     "value": 100,
     "defaultValue": 100,
@@ -39,7 +39,7 @@
       "durabilityviewer.config.top_right",
       "durabilityviewer.config.top_left"
     ],
-    "key": "HUD Corner",
+    "key": "durabilityviewer.config.corner",
     "toolTip": "durabilityviewer.config.tt.corner",
     "value": 0,
     "defaultValue": 0,
@@ -47,21 +47,21 @@
     "maxValue": 3
   },
   "durabilityviewer.config.armorhotbar": {
-    "key": "Armor around hotbar",
+    "key": "durabilityviewer.config.armorhotbar",
     "toolTip": "durabilityviewer.config.tt.armorhotbar",
     "value": false,
     "defaultValue": false
   },
   "durabilityviewer.config.mindurability": {
-    "key": "Sound below durability",
+    "key": "durabilityviewer.config.mindurability",
     "toolTip": "durabilityviewer.config.tt.mindurability",
     "value": 1,
-    "defaultValue": 1,
+    "defaultValue": 100,
     "minValue": 1,
     "maxValue": 1500
   },
   "durabilityviewer.config.setwindowtitle": {
-    "key": "Set window title",
+    "key": "durabilityviewer.config.setwindowtitle",
     "toolTip": "durabilityviewer.config.tt.setwindowtitle",
     "value": false,
     "defaultValue": true
@@ -73,7 +73,7 @@
       "durabilityviewer.config.warnmode.visual",
       "durabilityviewer.config.warnmode.both"
     ],
-    "key": "Warning mode",
+    "key": "durabilityviewer.config.warnmode",
     "toolTip": "durabilityviewer.config.tt.warnmode",
     "value": 0,
     "defaultValue": 1,
@@ -81,25 +81,25 @@
     "maxValue": 3
   },
   "durabilityviewer.config.showfreeslots": {
-    "key": "Show free inventory slots",
+    "key": "durabilityviewer.config.showfreeslots",
     "toolTip": "durabilityviewer.config.tt.showfreeslots",
     "value": true,
     "defaultValue": true
   },
   "durabilityviewer.config.percentvalues": {
-    "key": "Percentages",
+    "key": "durabilityviewer.config.percentvalues",
     "toolTip": "durabilityviewer.config.tt.percentvalues",
     "value": false,
     "defaultValue": false
   },
   "durabilityviewer.config.showalltrinkets": {
-    "key": "Show all trinkets",
+    "key": "durabilityviewer.config.showalltrinkets",
     "toolTip": "durabilityviewer.config.tt.showalltrinkets",
     "value": true,
     "defaultValue": true
   },
   "durabilityviewer.config.showdamagepercent": {
-    "key": "Percent to show damage",
+    "key": "durabilityviewer.config.showdamagepercent",
     "toolTip": "durabilityviewer.config.tt.showdamagepercent",
     "value": 100,
     "defaultValue": 80,

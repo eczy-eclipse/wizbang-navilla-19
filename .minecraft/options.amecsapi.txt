@@ -22,7 +22,7 @@ key_modifiers_key.spectatorOutlines:0,0,0
 key_modifiers_key.swapOffhand:0,0,0
 key_modifiers_key.saveToolbarActivator:0,0,0
 key_modifiers_key.loadToolbarActivator:0,0,0
-key_modifiers_key.advancements:0,0,0
+key_modifiers_key.advancements:1,0,0
 key_modifiers_key.hotbar.1:0,0,0
 key_modifiers_key.hotbar.2:0,0,0
 key_modifiers_key.hotbar.3:0,0,0
@@ -59,7 +59,7 @@ key_modifiers_key.immersive_aircraft.down:0,0,0
 key_modifiers_key.immersive_aircraft.pull:0,0,0
 key_modifiers_key.immersive_aircraft.push:0,0,0
 key_modifiers_key.immersive_aircraft.dismount:0,0,0
-key_modifiers_key.autofish.open_gui:0,0,0
+key_modifiers_key.autofish.open_gui:1,0,0
 key_modifiers_key.prone:0,0,0
 key_modifiers_key.prone.toggle:0,0,1
 key_modifiers_key.fabrizoom.zoom:0,0,0
@@ -68,7 +68,7 @@ key_modifiers_key.fabrizoom.decrease:0,0,0
 key_modifiers_key.fabrizoom.reset:0,0,0
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_key.botania_corporea_request:0,0,0
-key_modifiers_gui.xaero_switch_waypoint_set:0,0,0
+key_modifiers_gui.xaero_switch_waypoint_set:1,0,0
 key_modifiers_gui.xaero_instant_waypoint:0,0,0
 key_modifiers_gui.xaero_toggle_slime:0,0,0
 key_modifiers_gui.xaero_toggle_grid:0,0,0
@@ -76,7 +76,7 @@ key_modifiers_gui.xaero_toggle_waypoints:0,0,0
 key_modifiers_gui.xaero_toggle_map_waypoints:0,0,0
 key_modifiers_gui.xaero_toggle_map:1,0,0
 key_modifiers_gui.xaero_enlarge_map:0,0,0
-key_modifiers_gui.xaero_waypoints_key:0,0,0
+key_modifiers_gui.xaero_waypoints_key:1,0,0
 key_modifiers_gui.xaero_zoom_in:0,0,0
 key_modifiers_gui.xaero_zoom_out:0,0,0
 key_modifiers_gui.xaero_new_waypoint:0,0,0

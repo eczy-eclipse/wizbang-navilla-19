@@ -22,3 +22,4 @@
 .minecraft/usercache.json
 .minecraft/mods/.index
 .minecraft/servers.dat_old
+*.cache
