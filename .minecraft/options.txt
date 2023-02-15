@@ -40,7 +40,7 @@ biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","file/VanillaTweaks.zip","continuity/default","continuity/glass_pane_culling_fix","lambdabettergrass/default","additionalbars/classic","file/Navilla19_MoGlassBorderless.zip","file/Navilla19_EmeraldBackpack.zip","file/Navilla19_Panorama_Dzbil1.zip","file/Navilla19_TitleScreen.zip"]
 incompatibleResourcePacks:[]
-lastServer:66.69.200.204:25565
+lastServer:localhost
 lang:en_us
 soundDevice:""
 chatVisibility:0
