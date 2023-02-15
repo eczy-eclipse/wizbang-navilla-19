@@ -1,6 +1,6 @@
 [messages]
 nightSkippedMessage = "It's a new day."
-sendNightSkippedMessageToEveryone = false
+sendNightSkippedMessageToEveryone = true
 debuffMessage = "You have been awake for {nightsAwake} nights and have been given a debuff."
 playersAsleepMessage = "{asleepPlayers}/{totalPlayers} ({asleepPercentage}%) players are now sleeping."
 notEnoughPlayersAsleepMessage = "{asleepPlayers}/{totalPlayers} ({asleepPercentage}%) players are now sleeping. {asleepPlayersAdditionallyNeeded} more required to skip the night."

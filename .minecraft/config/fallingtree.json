@@ -1,22 +1,33 @@
 {
   "trees": {
-    "allowedLogs": [],
+    "allowedLogs": [
+      "betternether:willow_trunk",
+      "betternether:willow_branch",
+      "betternether:rubeus_logs",
+      "betternether:rubeus_bark"
+    ],
     "deniedLogs": [],
     "allowedLeaves": [],
-    "allowedNonDecayLeaves": [],
+    "allowedNonDecayLeaves": [
+      "betterend:mossy_glowshroom_cap",
+      "betterend:mossy_glowshroom_hymenophore",
+      "betterend:mossy_glowshroom_fur",
+      "betterend:umbrella_tree_membrane",
+      "betterend:umbrella_tree_cluster"
+    ],
     "deniedLeaves": [],
     "breakMode": "INSTANTANEOUS",
-    "detectionMode": "ABOVE_Y",
-    "maxScanSize": 500,
-    "maxSize": 250,
-    "maxSizeAction": "ABORT",
+    "detectionMode": "ABOVE_CUT",
+    "maxScanSize": 4096,
+    "maxSize": 512,
+    "maxSizeAction": "CUT",
     "breakOrder": "CLOSEST_FIRST",
     "minimumLeavesAroundRequired": 1,
     "includePersistentLeavesInRequiredCount": true,
     "treeBreaking": true,
     "leavesBreaking": true,
     "leavesBreakingForceRadius": 0,
-    "allowMixedLogs": false,
+    "allowMixedLogs": true,
     "breakNetherTreeWarts": true,
     "instantlyBreakWarts": false,
     "breakMangroveRoots": true,
@@ -27,7 +38,7 @@
   "tools": {
     "allowed": [],
     "denied": [],
-    "preserve": false,
+    "preserve": true,
     "ignoreTools": false,
     "damageMultiplicand": 0.5,
     "damageRounding": "PROBABILISTIC",
@@ -43,7 +54,7 @@
     "hideEnchant": true
   },
   "sneakMode": "SNEAK_ENABLE",
-  "breakInCreative": false,
-  "lootInCreative": true,
+  "breakInCreative": true,
+  "lootInCreative": false,
   "notificationMode": "ACTION_BAR"
 }

@@ -19,6 +19,11 @@
         "enable_profiles_announcement": false,
         "continuous_crafting_saved_value": false
     },
+    "LockedSlotsSettings": {
+        "locked_slots_empty_hotbar_as_semi_locked": {
+            "value": false
+        }
+    },
     "AutoRefillSettings": {
         "disable_for_drop_item": {
             "value": true

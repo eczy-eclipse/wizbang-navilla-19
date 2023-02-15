@@ -3,7 +3,7 @@
     "key": "durabilityviewer.config.tooltipcolor",
     "toolTip": "durabilityviewer.config.tt.tooltipcolor",
     "value": {
-      "colorIndex": 5,
+      "colorIndex": 6,
       "type": "ConfigurationMinecraftColor"
     },
     "defaultValue": 5,

@@ -7,7 +7,7 @@
   },
   "WateringCan": true,
   "RoseGold": true,
-  "Ropes": false,
+  "Ropes": true,
   "EnchantmentPrecision": true,
   "EnchantmentSpeed": true,
   "Wrench": true,
@@ -19,7 +19,7 @@
   "Crossbows": true,
   "TridentShard": true,
   "GlowStick": true,
-  "GildedNetherite": false,
+  "GildedNetherite": true,
   "DepthMeter": {
     "enabled": true,
     "displayElevationAlways": false

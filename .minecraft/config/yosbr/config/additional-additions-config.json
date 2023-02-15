@@ -19,7 +19,7 @@
   "Crossbows": true,
   "TridentShard": true,
   "GlowStick": true,
-  "GildedNetherite": false,
+  "GildedNetherite": true,
   "DepthMeter": {
     "enabled": true,
     "displayElevationAlways": false
@@ -39,4 +39,4 @@
   },
   "HastePotions": true,
   "BundleRecipe": true
-}
+}}
