@@ -1,0 +1,13 @@
+{
+  "biomePlacement": {
+    "modifyWindsweptSavannaPlacement": true,
+    "modifyJunglePlacement": true,
+    "modifySwampPlacement": true,
+    "modifyMangroveSwampPlacement": true
+  },
+  "betaBeaches": false,
+  "dyingTrees": true,
+  "fallenLogs": true,
+  "wilderWildTreeGen": true,
+  "wilderWildGrassGen": true
+}
